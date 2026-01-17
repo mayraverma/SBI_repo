@@ -5,5 +5,9 @@ public class demo{
         int j=20;
     }
 
+  public void myMoney(){
+
+        // logic
+  }
 
 }
